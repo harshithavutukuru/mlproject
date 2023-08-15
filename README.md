@@ -1,1 +1,1 @@
-## End-to-end Machine Learning Project euwgi
+## End-to-end Machine Learning Project
